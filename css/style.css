@@ -1,0 +1,19 @@
+.main-text {
+	font-family: "bebas neue";
+	font-size: 5em;
+}
+.bag {
+	color: rgb(54, 57, 88);
+}
+.moon {
+	color: rgb(118, 194, 126);
+}
+.button {
+	background-color: rgb(42, 30, 90);
+	color: whitesmoke;
+	padding: 15px 30px;
+	border-radius: 10px;
+}
+.button img {
+	height: 28px;
+}
