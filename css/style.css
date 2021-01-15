@@ -1,3 +1,7 @@
+body {
+	font-family: "poppins";
+	font-weight: 500;
+}
 .main-text {
 	font-family: "bebas neue";
 	font-size: 5em;
@@ -16,4 +20,27 @@
 }
 .button img {
 	height: 28px;
+}
+.main {
+	background-color: rgb(212, 255, 212);
+	border-radius: 30px;
+}
+.card {
+	border-radius: 20px;
+	justify-content: center;
+	border-style: none;
+}
+h1 {
+	font-family: "bebas neue";
+	color: rgb(54, 57, 88);
+}
+.footer {
+	background-color: rgb(212, 255, 212);
+	border-radius: 40px;
+}
+.cost {
+	margin-top: 10px;
+	font-size: 45px;
+	color: lightgreen;
+	font-family: "bebas neue";
 }
